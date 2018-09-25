@@ -1,0 +1,21 @@
+.box-model {
+    margin: 200px;
+    padding: 10px;
+    border: solid 10px indigo;
+    box-sizing: border-box;
+    
+    /*outline: solid;*/
+    width: 500px;
+    height: 250px;
+    overflow: scroll
+}
+
+.border-box {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkgrey;
+    text-emphasis-color: white;
+    text-emphasis: 4
+}
